@@ -1,0 +1,8 @@
+{
+  "name": "Remix Ayusan Library",
+  "description": "Ayusan Library: room to read, space to think. Explore a beautifully considered library and request a reading seat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
